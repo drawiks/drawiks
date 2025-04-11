@@ -10,4 +10,4 @@
 
 если у тебя есть предложения или вопросы, не стесняйся писать мне!
 
-[![discord](https://img.shields.io/badge/discord-YourDiscordID-blue)](https://discord.com/users/1016250061937721355)
+[![discord](https://img.shields.io/badge/discord-drawksr-blue)](https://discord.com/users/1016250061937721355)

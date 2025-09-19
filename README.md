@@ -3,7 +3,6 @@
 ### убил бога
 
 * 🚀  В данный момент занимаюсь разработкой [alaqubot](http://github.com/drawiks/alaqubot)
-* 🧠  В настоящее время я изучаю twitchAPI, flet, fastapi, solid-architecture.
 * ✉️  Обратная связь [discord](https://discord.com/users/1016250061937721355)
 
 ### 🌍  Okinawa Japan

@@ -9,27 +9,3 @@
 </div>
 
 <h2 align="center">projects</h2>
-<p align="center">
-  <a href="https://github.com/drawiks/alaqubot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drawiks&repo=alaqubot&theme=tokyonight&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/drawiks/yukaku-public">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drawiks&repo=yukaku-public&theme=tokyonight&description_lines_count=2" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/drawiks/divanchi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drawiks&repo=divanchi&theme=tokyonight&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/drawiks/jankai-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drawiks&repo=jankai-client&theme=tokyonight&description_lines_count=2" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/drawiks/sage-sword-remaster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drawiks&repo=sage-sword-remaster&theme=tokyonight&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/drawiks/helloworld">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=drawiks&repo=helloworld&theme=tokyonight&description_lines_count=2" />
-  </a>
-</p>

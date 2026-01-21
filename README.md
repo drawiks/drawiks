@@ -5,7 +5,4 @@
     <img height="20" alt="License Apache 2.0" src="https://img.shields.io/badge/godot-green">
     <img height="20" alt="Status" src="https://img.shields.io/badge/javascript-orange">
     <img height="20" alt="Status" src="https://img.shields.io/badge/typescript-grey">
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=drawiks&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues" /> </p>
 </div>
-
-<h2 align="center">projects</h2>
